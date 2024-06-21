@@ -5,3 +5,5 @@ While this is a generally complete game, there is one known error in the velocit
 Aside from that, this game was made as part of a high school course and thus not extensively in edge cases, so beware the possibility of minor errors.
 
 This is merely a demonstration of some of one of my earliest completed prohects.
+
+All art is original.
