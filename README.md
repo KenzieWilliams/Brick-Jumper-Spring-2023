@@ -1,4 +1,5 @@
 AUTHOR: MACKENZIE WILLIAMS
+
 This is an arcade style game created in python using the pygame library.
 
 Dev commands:
